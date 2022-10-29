@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from SpamBot import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/b296b25f4b193fdcad68c.jpg"
+HELP_PIC = "https://telegra.ph/file/af4d078f6feba0fef9cd5.jpg"
 
 DOLL_Help = "🔥 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩 🔥\n\n"
 
