@@ -3,7 +3,7 @@ import asyncio
 import sys
 import git
 import heroku3
-# Changed root to DOLLSPAM
+# Changed root to DOLLXSPAM
 from SpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9
 from SpamBot import OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, deadlyversion
 from SpamBot import CMD_HNDLR as hl
@@ -23,7 +23,7 @@ DOLL += f"**꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  �
 DOLL += f"═══════════════════\n"
 DOLL += f"• **𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `3.10.1`\n"
 DOLL += f"• **𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `{version.__version__}`\n"
-DOLL += f"• **𝙳𝙾𝙻𝙻 𝚇 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**  : `{deadlyversion}`\n"
+DOLL += f"• **𝚂𝙿𝙰𝙼 𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**  : `{deadlyversion}`\n"
 DOLL += f"═══════════════════\n\n"   
 
                                   
@@ -39,7 +39,7 @@ async def alive(event):
         Button.url("🇮🇳sᴜᴘᴘᴏʀᴛ🇮🇳", "https://t.me/DollxSpam_BOT")
         ],
         [
-        Button.url("• 🙂ʀᴇᴘᴏ🙂 •", "https://github.com/DOMINATOR-XD/DollXSpamBot")
+        Button.url("• 🙂ʀᴇᴘᴏ🙂 •", "https://github.com/TECHNO-MASTER/SpamBot")
         ]
         ]
         )
