@@ -11,7 +11,7 @@
 - [x] Deploy 10 AnonymousSpamBot In One Time 
 - [x] Deploy Using Bot Token
 - [x] Po*n spam|Hang Spam `new`
-- [x] AnonymousSpamTm Adding  Inline Spam `soon`
+- [x] Adding Inline Spam `soon`
 
 # Hᴏsᴛɪɴɢ
 
