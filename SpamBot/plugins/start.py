@@ -3,18 +3,18 @@ import asyncio
 import os
 from telethon import events, Button
 from telethon.tl.custom import button
-from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
+from SpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
 
 DOLL_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/b296b25f4b193fdcad68c.jpg"
 
 
 Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Dollx_spambot"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/DollxSpam_BOT")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/TechnoBot_Updates"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/TechnoBot_Support")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://github.com/dominator454/DollXSpamBot")
+        Button.url("• Rᴇᴘᴏ •", "https://github.com/TECHNO-MASTER/SpamBot")
         ]
         ]
         
@@ -38,7 +38,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[⏤‌❥‌ 🖤𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ¤‌๋‌ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ𖣔ꠋꠋ𑲭𑲭𑲭🦋⃟≛⃝🖤҉𓆩⍣⃟N1x乛DÕLL𓆪‌⍣⃟❤︎𓆪‌⍣⃟𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭](https://t.me/N1xDOLL)"
+        creator = f"[🥀TechnoBoy🥀](https://t.me/Technoboy_02)"
         DOLL_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
