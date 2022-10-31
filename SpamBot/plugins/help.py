@@ -31,7 +31,7 @@ DOLL_Help += f" `!hang` - 😂 ↧\n\n"
 
 DOLL_Help += f" `!bspam` - 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗦𝗣𝗔𝗠🥵 ↧\n\n"
 
-DOLL_Help += f"© @Dollx_spambot\n"
+DOLL_Help += f"© @TechnoBot_Updates\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
