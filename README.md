@@ -11,7 +11,6 @@
 - [x] Deploy 10 SpamBot In One Time 
 - [x] Deploy Using Bot Token
 - [x] Po*n spam|Hang Spam `new`
-- [x] Adding Inline Spam `soon`
 
 # Hᴏsᴛɪɴɢ
 
